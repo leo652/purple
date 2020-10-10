@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://itpurple.netlify.app/sitemap.xml
